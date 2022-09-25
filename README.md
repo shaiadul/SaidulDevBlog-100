@@ -188,3 +188,54 @@ What did you learn while building this project? What challenges did you face and
 
 What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
 
+
+## Related
+
+Here are some related projects
+
+[Awesome README](https://github.com/matiassingers/awesome-readme)
+
+
+## Roadmap
+
+- Additional browser support
+
+- Add more integrations
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+## Support
+
+For support, email fake@fake.com or join our Slack channel.
+
