@@ -239,3 +239,38 @@ Start the server
 
 For support, email fake@fake.com or join our Slack channel.
 
+
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
+
+
+## Running Tests
+
+To run tests, run the following command
+
+```bash
+  npm run test
+```
+
+
+## Usage/Examples
+
+```javascript
+import Component from 'my-project'
+
+function App() {
+  return <Component />
+}
+```
+
+
+## Used By
+
+This project is used by the following companies:
+
+- Company 1
+- Company 2
+
